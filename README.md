@@ -126,8 +126,5 @@ The project includes comprehensive model evaluation:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-- Reference any papers, tutorials, or resources that inspired your work
-- Credit to contributors and maintainers
 
